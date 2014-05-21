@@ -19,4 +19,4 @@ This is an attempt for me to keep interesting digital health interface documents
 
 If you submit a pull request, I'll definitely add your documents or exclude old documents in after a quick review.
 
-I have written none of the documents located here, but found them online. The ownership of said documents belongs to their original owners, so provide attribution as necessary.
+I found most of these documents online. The ownership of said documents belongs to their original owners, so provide attribution as necessary. Anything that I've written is available and can be redistributed a Creative Commons License, attached in this repository.
