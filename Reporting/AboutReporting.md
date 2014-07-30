@@ -15,13 +15,13 @@ Epic can save and export batch data via either it's Clarity Reporting Module or 
 
 Most Cerner applications interact with the Cerner database layer through CCL, the Cerner Command Language. CCL is similar to SQL, and can be used to declaratively query for data within Cerner. Cerner organizations have the ability to script reporting using CCL, and it's not uncommon for a large Cerner organization to have a few CCL wizards on staff (often former Cerner employees).
 
-(http://en.wikipedia.org/wiki/Cerner_CCL "Wikipedia Page on CCL")
+[Wikipedia Page on CCL](http://en.wikipedia.org/wiki/Cerner_CCL "Wikipedia Page on CCL")
 
-(http://www.cerner.com/uploadedFiles/Content/Solutions/Customer_Stories/Childrens_national_medcenter_casestudy.pdf "A white paper where Cerner talks about automating reports used for improving adverse event identification")
+[A white paper where Cerner talks about automating reports used for improving adverse event identification](http://www.cerner.com/uploadedFiles/Content/Solutions/Customer_Stories/Childrens_national_medcenter_casestudy.pdf "A white paper where Cerner talks about automating reports used for improving adverse event identification")
 
 ###Allscripts###
 
-Most Allscripts EHR Applications (Professional, Enterprise, Sunrise Inpatient) have some reporting infrastructure built on MS-SQL technologies. Some of this may be exposed via CLinical Analytics or may be available simply by tapping into the SQL Server on a non-production environment through either SSRS or Crystal Reports. Be forewarned, the data models are supposedly hairy. You may be better off using Allscripts APIs if they better meet your needs.
+Most Allscripts EHR Applications (Professional, Enterprise, Sunrise Inpatient) have some reporting infrastructure built on MS-SQL technologies. Some of this may be exposed via Clinical Analytics or may be available simply by tapping into the SQL Server on a non-production environment through either SSRS or Crystal Reports. Be forewarned, the data models are supposedly hairy. You may be better off using Allscripts APIs if they better meet your needs.
 
 ###NextGen###
 
@@ -29,4 +29,4 @@ You can use SSRS or Crystal Reports to query objects on the MS SQL server. There
 
 ###Meditech###
 
-You can automate reports through the (https://www.meditech.com/ProductBriefs/presentations/quality_reporting/report_scheduler.htm "Report Scheduler")
+You can automate reports through the [Report Scheduler](https://www.meditech.com/ProductBriefs/presentations/quality_reporting/report_scheduler.htm "Report Scheduler")
