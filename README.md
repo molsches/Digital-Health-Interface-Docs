@@ -19,4 +19,6 @@ This is an attempt for me to keep interesting digital health interface documents
 
 If you submit a pull request, I'll definitely add your documents or exclude old documents in after a quick review.
 
+To review any documentation provided by HL7, _you must register with HL7_ to receive a free license. You can do so here: (HL7 Sign-up)[https://qcommerce.hl7.org/qcommercenet/NewUser/Index.aspx]
+
 I found most of these documents online. The ownership of said documents belongs to their original owners, so provide attribution as necessary. Anything that I've written is available and can be redistributed a Creative Commons 4.0 Attribution License, attached in this repository. I used the markdown formatted version of this license from (https://github.com/idleberg/Creative-Commons-4.0-Markdown) by idleberg.
