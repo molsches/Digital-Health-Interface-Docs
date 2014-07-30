@@ -17,6 +17,8 @@ So, I do the usual thing:
 
 This is an attempt for me to keep interesting digital health interface documents across projects and to share this with other people that might find it helpful. I'd also like to crowdsource this knowledge to make this easier for first time digital health programmers.
 
+Questions? Please email me -> mark@catalyze.io
+
 If you submit a pull request, I'll definitely add your documents or exclude old documents in after a quick review.
 
 To review any documentation provided by HL7, _you must register with HL7_ to receive a free license. You can do so here: [HL7 Sign-up](https://qcommerce.hl7.org/qcommercenet/NewUser/Index.aspx)
